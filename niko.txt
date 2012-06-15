@@ -1,0 +1,88 @@
+Port opened by process "nikobus.exe" (PID: 5704)
+
+Request: 13-11-2011 15:56:31.35164 (+18.1551 seconds)
+
+ 2B 2B 2B 2B 0D 41 54 48 30 0D 41 54 5A 0D 24 31   ++++.ATH0.ATZ.$1
+ 30 31 31 30 30 30 30 42 38 43 46 39 44 0D         0110000B8CF9D.  
+
+Answer: 13-11-2011 15:56:33.59064 (+0.0176 seconds)
+
+ 24 30 35 31 31                                    $0511
+
+
+----
+++++
+ATH0
+ATZ
+$10110000B8CF9D
+------------------------------
+
+Knop gang om licht bureau AAN
+#N3A50F7
+Knop gang om licht bureau UIT
+#N7A50F7
+ADRES: 3BC297
+
+Knop bureau:
+AC
+BD
+Adres: 3E74CC
+A: #N8CCB9F
+B: #NCCCB9F
+C: #N0CCB9F
+D: #N4CCB9F
+-----------------------------------------------------------
+Adressen:
+Wout:
+BP5: Busdrukknop, 2 bedieningspunten - Deur: 3C96A6
+Gang boven:
+BP5: Busdrukknop, 2 bedieningspunten - Kamer Wout: 3EFDC1
+BP6: Busdrukknop, 2 bedieningspunten - Badkamer: 3EF0AB
+BP8: Busdrukknop, 2 bedieningspunten - Kamer Bas - onderaan: 3C954C
+BP10: Busdrukknop, 2 bedieningspunten + LED - WC: 3C9155
+BP12: Busdrukknop, 2 bedieningspunten - Kamer Bas - bovenaan: 3ED269
+
+
+----------------------------------------------
+Module zolder
+Request:
+ 24 31 30 31 32 44 41 30 34 35 42 46 37 44 36 0D   $1012DA045BF7D6.
+Answer:
+24 30 35 31 32 24 31 43 44 41 30 34 30 30 30 30   $0512$1CDA040000
+ 30 30 30 30 30 30 30 30 30 30 34 42 31 32 45 45   00000000004B12EE
+ 0D                                                .
+REquest:
+24 31 30 31 37 44 41 30 34 42 30 30 37 42 36 0D   $1017DA04B007B6.
+Answer:
+24 30 35 31 37 24 31 43 44 41 30 34 30 30 30 30   $0517$1CDA040000
+ 30 30 30 30 30 30 30 30 30 30 34 42 31 32 45 45   00000000004B12EE
+ 0D                                                .
+----------------------
+Module bovenaan garage
+Req:
+24 31 30 31 32 45 45 31 31 44 30 33 32 30 31 0D   $1012EE11D03201.
+Resp:
+24 30 35 31 32 24 31 43 45 45 31 31 30 30 30 30   $0512$1CEE110000
+ 30 30 30 30 30 30 30 30 30 30 35 36 46 35 34 44   000000000056F54D
+ 0D                                                .
+Req:
+24 31 30 31 37 45 45 31 31 33 42 43 32 38 41 0D   $1017EE113BC28A.
+Resp:
+24 30 35 31 37 24 31 43 45 45 31 31 30 30 30 30   $0517$1CEE110000
+ 30 30 30 30 30 30 30 30 30 30 35 36 46 35 34 44   000000000056F54D
+ 0D      
+----------------------
+Module bovenaan garage
+Req:
+24 31 30 31 32 35 41 30 35 35 30 34 45 38 32 0D   $10125A05504E82.
+Resp:
+24 30 35 31 32 24 31 43 35 41 30 35 30 30 30 30   $0512$1C5A050000
+ 30 30 46 46 30 30 46 46 46 46 45 35 44 46 36 41   00FF00FFFFE5DF6A
+ 0D                                                .
+Req:
+24 31 30 31 37 35 41 30 35 42 42 42 45 45 32 0D   $10175A05BBBEE2.
+Resp:
+24 30 35 31 37 24 31 43 35 41 30 35 30 30 30 30   $0517$1C5A050000
+ 30 30 30 30 30 30 30 30 30 30 42 33 37 33 34 44   0000000000B3734D
+ 0D                                                .
+                                          .

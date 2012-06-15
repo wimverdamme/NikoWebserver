@@ -1,0 +1,1763 @@
+1. Installatie
+Naam installateur :
+Telefoonnummer installateur :
+Naam klant : Thuis
+Telefoonnummer klant :
+Projectinfo :
+Weekenddagen : Zaterdag, Zondag, Maandag, Dinsdag, Woensdag, Donderdag, Vrijdag
+Locatie van het project : C:\Users\Gijs\Documents\Nikobu4.nkb
+Nikobus database 1 / 34 29/12/2011
+2. Stuklijst
+Ref. Nummer Omschrijving Aantal Opmerkingen
+05-000-02 Schakelmodule 3
+05-060 Busdrukknop, 2 bedieningspunten 18
+05-061 Busdrukknop, 2 bedieningspunten + LED 2
+05-064 Busdrukknop, 4 bedieningspunten 13
+05-207 Feedback Module (met/zonder scherm) 1 Optie: Aanraakscherm (05-096)
+virt-64 Generieke bedieningspunten (64) 1
+3. Plaatsen
+Groepen
+Zolder - chauffage
+S3: Schakelmodule (05-000-02 : Schakelmodule) 4DA
+Bureau
+Kamer Wout
+BP3: Busdrukknop, 2 bedieningspunten - Deur (05-060 : Busdrukknop, 2 bedieningspunten) 3C96A6
+Gang Boven
+BP5: Busdrukknop, 2 bedieningspunten - Kamer Wout (05-060 : Busdrukknop, 2 bedieningspunten) 3EFDC1
+BP6: Busdrukknop, 2 bedieningspunten - Badkamer (05-060 : Busdrukknop, 2 bedieningspunten) 3EF0AB
+BP7: Busdrukknop, 2 bedieningspunten - Kamer Veerle/Gijs (05-060 : Busdrukknop, 2 bedieningspunten) 3D15AC
+BP8: Busdrukknop, 2 bedieningspunten - Kamer Bas - onderaan (05-060 : Busdrukknop, 2 bedieningspunten) 3C954C
+BP10: Busdrukknop, 2 bedieningspunten + LED - WC (05-061 : Busdrukknop, 2 bedieningspunten + LED) 3C9155
+BP12: Busdrukknop, 2 bedieningspunten - Kamer Bas - bovenaan (05-060 : Busdrukknop, 2 bedieningspunten) 3ED269
+BP34: Busdrukknop, 4 bedieningspunten - Trap/bureau bovenaan (05-064 : Busdrukknop, 4 bedieningspunten) 3BC297
+BP35: Busdrukknop, 4 bedieningspunten - Trap/Bureau onderaan (05-064 : Busdrukknop, 4 bedieningspunten) 3E74CC
+Badkamer
+BP15: Busdrukknop, 4 bedieningspunten (05-064 : Busdrukknop, 4 bedieningspunten) 3B940A
+Slaapkamer Veerle/Gijs
+BP13: Busdrukknop, 4 bedieningspunten - Deur (05-064 : Busdrukknop, 4 bedieningspunten) 3BC17E
+BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle (05-064 : Busdrukknop, 4 bedieningspunten) 3BC044
+BP37: Busdrukknop, 4 bedieningspunten - Bed kant Gijs (05-064 : Busdrukknop, 4 bedieningspunten) 3BBDF3
+WC- Boven
+Nikobus database 2 / 34 29/12/2011
+Kamer Bas
+BP14: Busdrukknop, 2 bedieningspunten (05-060 : Busdrukknop, 2 bedieningspunten) 3F00AC
+Zolder Gang
+BP16: Busdrukknop, 2 bedieningspunten (05-060 : Busdrukknop, 2 bedieningspunten) 3C05DE
+Speelkamer
+BP17: Busdrukknop, 2 bedieningspunten (05-060 : Busdrukknop, 2 bedieningspunten) 3EED98
+Zolder Berging
+Berging
+BP29: Busdrukknop, 2 bedieningspunten - deur keuken (05-060 : Busdrukknop, 2 bedieningspunten) 3ED8CA
+BP30: Busdrukknop, 4 bedieningspunten - deur tuin bovenaan (05-064 : Busdrukknop, 4 bedieningspunten) 3BBF3D
+BP31: Busdrukknop, 2 bedieningspunten - deur tuin onderaan (05-060 : Busdrukknop, 2 bedieningspunten) 3ED131
+Keuken
+BP27: Busdrukknop, 2 bedieningspunten - deur eetkamer (05-060 : Busdrukknop, 2 bedieningspunten) 3EB58A
+BP28: Busdrukknop, 2 bedieningspunten - deur berging (05-060 : Busdrukknop, 2 bedieningspunten) 3ED24B
+Eetkamer
+BP25: Busdrukknop, 4 bedieningspunten - trap bovenaan (05-064 : Busdrukknop, 4 bedieningspunten) 3BBE6E
+BP26: Busdrukknop, 4 bedieningspunten - trap onderaan (05-064 : Busdrukknop, 4 bedieningspunten) 3BBDFD
+Zitkamer
+BP23: Busdrukknop, 2 bedieningspunten - Haldeur bovenaan (05-060 : Busdrukknop, 2 bedieningspunten) 3EFB29
+BP24: Busdrukknop, 4 bedieningspunten - Haldeur onderaan (05-064 : Busdrukknop, 4 bedieningspunten) 3BC4FC
+Hal beneden
+BP19: Busdrukknop, 2 bedieningspunten - Garagedeur (05-060 : Busdrukknop, 2 bedieningspunten) 3E3587
+BP20: Busdrukknop, 2 bedieningspunten + LED - WC-deur (05-061 : Busdrukknop, 2 bedieningspunten + LED) 3C912A
+Nikobus database 3 / 34 29/12/2011
+BP21: Busdrukknop, 2 bedieningspunten - zitkameurdeur - bovenaan (05-060 : Busdrukknop, 2 bedieningspunten) 3BAE4D
+BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan (05-064 : Busdrukknop, 4 bedieningspunten) 3BBDF7
+WC - beneden
+Garage
+BP2: Busdrukknop, 2 bedieningspunten - Haldeur (05-060 : Busdrukknop, 2 bedieningspunten) 19B030
+BP18: Busdrukknop, 2 bedieningspunten - Berging deur (05-060 : Busdrukknop, 2 bedieningspunten) 3EE64C
+S1: Schakelmodule (bovenaan) (05-000-02 : Schakelmodule) 11EE
+S2: Schakelmodule (onderaan) (05-000-02 : Schakelmodule) 55A
+Reserve
+BP32: Busdrukknop, 4 bedieningspunten - knop1 (05-064 : Busdrukknop, 4 bedieningspunten) 3BFDE6
+BP33: Busdrukknop, 4 bedieningspunten - knop2 (05-064 : Busdrukknop, 4 bedieningspunten) 3C1A90
+BP38: Generieke bedieningspunten (64) (virt-64 : Generieke bedieningspunten (64)) 3CF3E0
+LED1: Feedback Module (met/zonder scherm) (05-207 : Feedback Module (met/zonder scherm)) A13E
+4. Inputgroepen
+5. Uitgangsgroepen
+6. Sensoren
+BP2: Busdrukknop, 2 bedieningspunten - Haldeur (05-060 : Busdrukknop, 2 bedieningspunten)
+AB: Ingang
+O04: Schakeluitgang - Garagelicht (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+BP3: Busdrukknop, 2 bedieningspunten - Deur (05-060 : Busdrukknop, 2 bedieningspunten)
+AB: Ingang
+O09: Kamer Wout (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+BP5: Busdrukknop, 2 bedieningspunten - Kamer Wout (05-060 : Busdrukknop, 2 bedieningspunten)
+AB: Ingang
+Nikobus database 4 / 34 29/12/2011
+O02: Gang Boven (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+BP6: Busdrukknop, 2 bedieningspunten - Badkamer (05-060 : Busdrukknop, 2 bedieningspunten)
+AB: Ingang
+O02: Gang Boven (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+BP7: Busdrukknop, 2 bedieningspunten - Kamer Veerle/Gijs (05-060 : Busdrukknop, 2 bedieningspunten)
+AB: Ingang
+O02: Gang Boven (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+BP8: Busdrukknop, 2 bedieningspunten - Kamer Bas - onderaan (05-060 : Busdrukknop, 2 bedieningspunten)
+AB: Ingang
+O02: Gang Boven (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+B: Ingang
+O08: Kamer Bas (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+BP10: Busdrukknop, 2 bedieningspunten + LED - WC (05-061 : Busdrukknop, 2 bedieningspunten + LED)
+A: Ingang
+O12: WC Boven (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M06 (Vertraagd afvallend (lang tot 2h))
+Lange tijden (tot 2u.) = 8 m
+AB voorwaarde = Geen
+B: Ingang
+O12: WC Boven (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 0 s
+AB voorwaarde = Geen
+BP12: Busdrukknop, 2 bedieningspunten - Kamer Bas - bovenaan (05-060 : Busdrukknop, 2 bedieningspunten)
+A: Ingang
+O05: Zolder Grote berging (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+Nikobus database 5 / 34 29/12/2011
+O10: Zolder Chauffage+kleine berging (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+AB: Ingang
+O11: Gang - zolder (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+B: Ingang
+O05: Zolder Grote berging (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 0 s
+AB voorwaarde = Geen
+O10: Zolder Chauffage+kleine berging (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 0 s
+AB voorwaarde = Geen
+BP13: Busdrukknop, 4 bedieningspunten - Deur (05-064 : Busdrukknop, 4 bedieningspunten)
+AB: Ingang
+O04: Slaapkamer Veerle/Gijs Midden (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+CD: Ingang
+O01: Slaapkamer Veerle/Gijs geschakeld contact Gijs (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+O02: Slaapkamer Veerle/Gijs geschakeld contact Veerle (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+BP14: Busdrukknop, 2 bedieningspunten (05-060 : Busdrukknop, 2 bedieningspunten)
+AB: Ingang
+O08: Kamer Bas (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+BP15: Busdrukknop, 4 bedieningspunten (05-064 : Busdrukknop, 4 bedieningspunten)
+AB: Ingang
+O10: Verlichting badkamer (spiegel) (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+O11: Verlichting badkamer (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+CD: Ingang
+Nikobus database 6 / 34 29/12/2011
+O06: Douche (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+BP16: Busdrukknop, 2 bedieningspunten (05-060 : Busdrukknop, 2 bedieningspunten)
+A: Ingang
+O05: Zolder Grote berging (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O10: Zolder Chauffage+kleine berging (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+AB: Ingang
+O11: Gang - zolder (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+B: Ingang
+O05: Zolder Grote berging (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 0 s
+AB voorwaarde = Geen
+O10: Zolder Chauffage+kleine berging (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 0 s
+AB voorwaarde = Geen
+BP17: Busdrukknop, 2 bedieningspunten (05-060 : Busdrukknop, 2 bedieningspunten)
+AB: Ingang
+O07: Speelkamer (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+BP18: Busdrukknop, 2 bedieningspunten - Berging deur (05-060 : Busdrukknop, 2 bedieningspunten)
+AB: Ingang
+O04: Schakeluitgang - Garagelicht (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+BP19: Busdrukknop, 2 bedieningspunten - Garagedeur (05-060 : Busdrukknop, 2 bedieningspunten)
+AB: Ingang
+O04: Hal (licht 1) (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+O05: Hal (licht 2) (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+Nikobus database 7 / 34 29/12/2011
+BP20: Busdrukknop, 2 bedieningspunten + LED - WC-deur (05-061 : Busdrukknop, 2 bedieningspunten + LED)
+A: Ingang
+O12: WC beneden (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M06 (Vertraagd afvallend (lang tot 2h))
+Lange tijden (tot 2u.) = 30 m
+AB voorwaarde = Geen
+B: Ingang
+O12: WC beneden (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 0 s
+AB voorwaarde = Geen
+BP21: Busdrukknop, 2 bedieningspunten - zitkameurdeur - bovenaan (05-060 : Busdrukknop, 2 bedieningspunten)
+AB: Ingang
+O04: Hal (licht 1) (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+O05: Hal (licht 2) (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan (05-064 : Busdrukknop, 4 bedieningspunten)
+AB: Ingang
+O03: Zitkamer(spots) (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+C: Ingang
+O01: ??? (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O02: ??? (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O03: Trap zitkamer (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O04: Hal (licht 1) (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O05: Hal (licht 2) (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O06: Licht Berging (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+Nikobus database 8 / 34 29/12/2011
+O07: ??? (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O08: Eetkamer (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O09: ??? (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O10: ??? (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O11: Geschakeld stopcontact zitkamer (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O12: WC beneden (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O01: Slaapkamer Veerle/Gijs geschakeld contact Gijs (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O02: Slaapkamer Veerle/Gijs geschakeld contact Veerle (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O03: Keuken aanrecht (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O04: Schakeluitgang - Garagelicht (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O05: Keuken tafel (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O06: Keuken aanrecht raam (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O07: Verlichting buiten 1 (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O08: Verlichting buiten 2 (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O09: Verlichting buiten 3 (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O10: Verlichting badkamer (spiegel) (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+Nikobus database 9 / 34 29/12/2011
+O11: Verlichting badkamer (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O12: Stopcontact buiten (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O01: Bureau (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O02: Gang Boven (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O03: Zitkamer(spots) (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O04: Slaapkamer Veerle/Gijs Midden (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O05: Zolder Grote berging (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O06: Douche (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O08: Kamer Bas (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O10: Zolder Chauffage+kleine berging (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O11: Gang - zolder (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O12: WC Boven (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang
+O01: ??? (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O02: ??? (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O03: Trap zitkamer (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O04: Hal (licht 1) (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+Nikobus database 10 / 34 29/12/2011
+O05: Hal (licht 2) (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O06: Licht Berging (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O07: ??? (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O08: Eetkamer (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O09: ??? (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O10: ??? (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O11: Geschakeld stopcontact zitkamer (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O12: WC beneden (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O01: Slaapkamer Veerle/Gijs geschakeld contact Gijs (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O02: Slaapkamer Veerle/Gijs geschakeld contact Veerle (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O03: Keuken aanrecht (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O04: Schakeluitgang - Garagelicht (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O05: Keuken tafel (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O06: Keuken aanrecht raam (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O07: Verlichting buiten 1 (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O08: Verlichting buiten 2 (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+Nikobus database 11 / 34 29/12/2011
+O09: Verlichting buiten 3 (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O10: Verlichting badkamer (spiegel) (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O11: Verlichting badkamer (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O12: Stopcontact buiten (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O01: Bureau (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O02: Gang Boven (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O03: Zitkamer(spots) (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O04: Slaapkamer Veerle/Gijs Midden (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O05: Zolder Grote berging (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O06: Douche (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O07: Speelkamer (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O08: Kamer Bas (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O09: Kamer Wout (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O10: Zolder Chauffage+kleine berging (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O11: Gang - zolder (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O12: WC Boven (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+BP23: Busdrukknop, 2 bedieningspunten - Haldeur bovenaan (05-060 : Busdrukknop, 2 bedieningspunten)
+Nikobus database 12 / 34 29/12/2011
+AB: Ingang
+O11: Geschakeld stopcontact zitkamer (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+O03: Zitkamer(spots) (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+BP24: Busdrukknop, 4 bedieningspunten - Haldeur onderaan (05-064 : Busdrukknop, 4 bedieningspunten)
+AB: Ingang
+O04: Hal (licht 1) (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+O05: Hal (licht 2) (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+B: Ingang
+O11: Geschakeld stopcontact zitkamer (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+CD: Ingang
+O08: Eetkamer (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+BP25: Busdrukknop, 4 bedieningspunten - trap bovenaan (05-064 : Busdrukknop, 4 bedieningspunten)
+AB: Ingang
+O03: Trap zitkamer (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+CD: Ingang
+O02: Gang Boven (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+BP26: Busdrukknop, 4 bedieningspunten - trap onderaan (05-064 : Busdrukknop, 4 bedieningspunten)
+AB: Ingang
+O03: Zitkamer(spots) (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+CD: Ingang
+Nikobus database 13 / 34 29/12/2011
+O08: Eetkamer (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+BP27: Busdrukknop, 2 bedieningspunten - deur eetkamer (05-060 : Busdrukknop, 2 bedieningspunten)
+AB: Ingang
+O05: Keuken tafel (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+BP28: Busdrukknop, 2 bedieningspunten - deur berging (05-060 : Busdrukknop, 2 bedieningspunten)
+AB: Ingang
+O03: Keuken aanrecht (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+O05: Keuken tafel (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+O06: Keuken aanrecht raam (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+BP29: Busdrukknop, 2 bedieningspunten - deur keuken (05-060 : Busdrukknop, 2 bedieningspunten)
+AB: Ingang
+O06: Licht Berging (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+BP30: Busdrukknop, 4 bedieningspunten - deur tuin bovenaan (05-064 : Busdrukknop, 4 bedieningspunten)
+AB: Ingang
+O12: Stopcontact buiten (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+CD: Ingang
+O07: Verlichting buiten 1 (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+O08: Verlichting buiten 2 (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+O09: Verlichting buiten 3 (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+BP31: Busdrukknop, 2 bedieningspunten - deur tuin onderaan (05-060 : Busdrukknop, 2 bedieningspunten)
+Nikobus database 14 / 34 29/12/2011
+AB: Ingang
+O06: Licht Berging (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+BP32: Busdrukknop, 4 bedieningspunten - knop1 (05-064 : Busdrukknop, 4 bedieningspunten)
+AB: Ingang
+O01: Bureau (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+BP33: Busdrukknop, 4 bedieningspunten - knop2 (05-064 : Busdrukknop, 4 bedieningspunten)
+AB: Ingang
+O05: Zolder Grote berging (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+CD: Ingang
+O05: Zolder Grote berging (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+BP34: Busdrukknop, 4 bedieningspunten - Trap/bureau bovenaan (05-064 : Busdrukknop, 4 bedieningspunten)
+AB: Ingang
+O02: Gang Boven (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+CD: Ingang
+O01: Bureau (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+BP35: Busdrukknop, 4 bedieningspunten - Trap/Bureau onderaan (05-064 : Busdrukknop, 4 bedieningspunten)
+AB: Ingang
+O03: Trap zitkamer (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle (05-064 : Busdrukknop, 4 bedieningspunten)
+AB: Ingang
+O02: Slaapkamer Veerle/Gijs geschakeld contact Veerle (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+Nikobus database 15 / 34 29/12/2011
+C: Ingang
+O01: ??? (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O02: ??? (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O03: Trap zitkamer (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O04: Hal (licht 1) (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O05: Hal (licht 2) (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O06: Licht Berging (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O07: ??? (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O08: Eetkamer (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O09: ??? (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O10: ??? (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O11: Geschakeld stopcontact zitkamer (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O12: WC beneden (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O01: Slaapkamer Veerle/Gijs geschakeld contact Gijs (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O02: Slaapkamer Veerle/Gijs geschakeld contact Veerle (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O03: Keuken aanrecht (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O04: Schakeluitgang - Garagelicht (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+Nikobus database 16 / 34 29/12/2011
+O05: Keuken tafel (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O06: Keuken aanrecht raam (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O07: Verlichting buiten 1 (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O08: Verlichting buiten 2 (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O09: Verlichting buiten 3 (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O10: Verlichting badkamer (spiegel) (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O11: Verlichting badkamer (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O12: Stopcontact buiten (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O01: Bureau (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O02: Gang Boven (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O03: Zitkamer(spots) (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O05: Zolder Grote berging (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O06: Douche (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O08: Kamer Bas (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O10: Zolder Chauffage+kleine berging (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O11: Gang - zolder (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+Nikobus database 17 / 34 29/12/2011
+O12: WC Boven (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+CD: Ingang
+O04: Slaapkamer Veerle/Gijs Midden (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+D: Ingang
+O01: ??? (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O02: ??? (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O03: Trap zitkamer (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O04: Hal (licht 1) (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O05: Hal (licht 2) (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O06: Licht Berging (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O07: ??? (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O08: Eetkamer (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O09: ??? (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O10: ??? (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O11: Geschakeld stopcontact zitkamer (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O12: WC beneden (S1: Schakelmodule (bovenaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O01: Slaapkamer Veerle/Gijs geschakeld contact Gijs (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+Nikobus database 18 / 34 29/12/2011
+O02: Slaapkamer Veerle/Gijs geschakeld contact Veerle (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O03: Keuken aanrecht (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O04: Schakeluitgang - Garagelicht (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O05: Keuken tafel (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O06: Keuken aanrecht raam (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O07: Verlichting buiten 1 (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O08: Verlichting buiten 2 (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O09: Verlichting buiten 3 (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O10: Verlichting badkamer (spiegel) (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O11: Verlichting badkamer (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O12: Stopcontact buiten (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O01: Bureau (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O02: Gang Boven (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O03: Zitkamer(spots) (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O05: Zolder Grote berging (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O06: Douche (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+Nikobus database 19 / 34 29/12/2011
+O07: Speelkamer (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O08: Kamer Bas (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O09: Kamer Wout (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O10: Zolder Chauffage+kleine berging (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O11: Gang - zolder (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O12: WC Boven (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+BP37: Busdrukknop, 4 bedieningspunten - Bed kant Gijs (05-064 : Busdrukknop, 4 bedieningspunten)
+AB: Ingang
+O04: Slaapkamer Veerle/Gijs Midden (S3: Schakelmodule - Zolder - chauffage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+CD: Ingang
+O01: Slaapkamer Veerle/Gijs geschakeld contact Gijs (S2: Schakelmodule (onderaan) - Garage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+7. Actoren
+S1: Schakelmodule (bovenaan) (05-000-02 : Schakelmodule)
+O01: ???
+C: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+C: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O02: ???
+Nikobus database 20 / 34 29/12/2011
+C: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+C: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O03: Trap zitkamer
+C: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+AB: Ingang (BP25: Busdrukknop, 4 bedieningspunten - trap bovenaan - Eetkamer)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+AB: Ingang (BP35: Busdrukknop, 4 bedieningspunten - Trap/Bureau onderaan - Gang Boven)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+C: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O04: Hal (licht 1)
+AB: Ingang (BP19: Busdrukknop, 2 bedieningspunten - Garagedeur - Hal beneden)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+AB: Ingang (BP21: Busdrukknop, 2 bedieningspunten - zitkameurdeur - bovenaan - Hal beneden)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+C: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+AB: Ingang (BP24: Busdrukknop, 4 bedieningspunten - Haldeur onderaan - Zitkamer)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+Nikobus database 21 / 34 29/12/2011
+C: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O05: Hal (licht 2)
+AB: Ingang (BP19: Busdrukknop, 2 bedieningspunten - Garagedeur - Hal beneden)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+AB: Ingang (BP21: Busdrukknop, 2 bedieningspunten - zitkameurdeur - bovenaan - Hal beneden)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+C: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+AB: Ingang (BP24: Busdrukknop, 4 bedieningspunten - Haldeur onderaan - Zitkamer)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+C: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O06: Licht Berging
+C: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+AB: Ingang (BP29: Busdrukknop, 2 bedieningspunten - deur keuken - Berging)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+AB: Ingang (BP31: Busdrukknop, 2 bedieningspunten - deur tuin onderaan - Berging)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+C: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O07: ???
+Nikobus database 22 / 34 29/12/2011
+C: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+C: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O08: Eetkamer
+C: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+CD: Ingang (BP24: Busdrukknop, 4 bedieningspunten - Haldeur onderaan - Zitkamer)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+CD: Ingang (BP26: Busdrukknop, 4 bedieningspunten - trap onderaan - Eetkamer)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+C: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O09: ???
+C: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+C: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O10: ???
+Nikobus database 23 / 34 29/12/2011
+C: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+C: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O11: Geschakeld stopcontact zitkamer
+C: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+AB: Ingang (BP23: Busdrukknop, 2 bedieningspunten - Haldeur bovenaan - Zitkamer)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+B: Ingang (BP24: Busdrukknop, 4 bedieningspunten - Haldeur onderaan - Zitkamer)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+C: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O12: WC beneden
+A: Ingang (BP20: Busdrukknop, 2 bedieningspunten + LED - WC-deur - Hal beneden)
+Verbindingsmode = M06 (Vertraagd afvallend (lang tot 2h))
+Lange tijden (tot 2u.) = 30 m
+AB voorwaarde = Geen
+B: Ingang (BP20: Busdrukknop, 2 bedieningspunten + LED - WC-deur - Hal beneden)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 0 s
+AB voorwaarde = Geen
+C: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+C: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+Nikobus database 24 / 34 29/12/2011
+D: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+S2: Schakelmodule (onderaan) (05-000-02 : Schakelmodule)
+O01: Slaapkamer Veerle/Gijs geschakeld contact Gijs
+CD: Ingang (BP13: Busdrukknop, 4 bedieningspunten - Deur - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+C: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+C: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+CD: Ingang (BP37: Busdrukknop, 4 bedieningspunten - Bed kant Gijs - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+O02: Slaapkamer Veerle/Gijs geschakeld contact Veerle
+CD: Ingang (BP13: Busdrukknop, 4 bedieningspunten - Deur - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+C: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+AB: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+C: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O03: Keuken aanrecht
+C: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+Nikobus database 25 / 34 29/12/2011
+D: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+AB: Ingang (BP28: Busdrukknop, 2 bedieningspunten - deur berging - Keuken)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+C: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O04: Schakeluitgang - Garagelicht
+AB: Ingang (BP2: Busdrukknop, 2 bedieningspunten - Haldeur - Garage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+AB: Ingang (BP18: Busdrukknop, 2 bedieningspunten - Berging deur - Garage)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+C: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+C: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O05: Keuken tafel
+C: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+AB: Ingang (BP27: Busdrukknop, 2 bedieningspunten - deur eetkamer - Keuken)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+AB: Ingang (BP28: Busdrukknop, 2 bedieningspunten - deur berging - Keuken)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+C: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+Nikobus database 26 / 34 29/12/2011
+D: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O06: Keuken aanrecht raam
+C: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+AB: Ingang (BP28: Busdrukknop, 2 bedieningspunten - deur berging - Keuken)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+C: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O07: Verlichting buiten 1
+C: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+CD: Ingang (BP30: Busdrukknop, 4 bedieningspunten - deur tuin bovenaan - Berging)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+C: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O08: Verlichting buiten 2
+C: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+CD: Ingang (BP30: Busdrukknop, 4 bedieningspunten - deur tuin bovenaan - Berging)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+C: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+Nikobus database 27 / 34 29/12/2011
+D: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O09: Verlichting buiten 3
+C: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+CD: Ingang (BP30: Busdrukknop, 4 bedieningspunten - deur tuin bovenaan - Berging)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+C: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O10: Verlichting badkamer (spiegel)
+AB: Ingang (BP15: Busdrukknop, 4 bedieningspunten - Badkamer)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+C: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+C: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O11: Verlichting badkamer
+AB: Ingang (BP15: Busdrukknop, 4 bedieningspunten - Badkamer)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+C: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+C: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+Nikobus database 28 / 34 29/12/2011
+D: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O12: Stopcontact buiten
+C: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+AB: Ingang (BP30: Busdrukknop, 4 bedieningspunten - deur tuin bovenaan - Berging)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+C: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+S3: Schakelmodule (05-000-02 : Schakelmodule)
+O01: Bureau
+C: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+AB: Ingang (BP32: Busdrukknop, 4 bedieningspunten - knop1 - Reserve)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+CD: Ingang (BP34: Busdrukknop, 4 bedieningspunten - Trap/bureau bovenaan - Gang Boven)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+C: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O02: Gang Boven
+AB: Ingang (BP5: Busdrukknop, 2 bedieningspunten - Kamer Wout - Gang Boven)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+AB: Ingang (BP6: Busdrukknop, 2 bedieningspunten - Badkamer - Gang Boven)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+Nikobus database 29 / 34 29/12/2011
+AB: Ingang (BP7: Busdrukknop, 2 bedieningspunten - Kamer Veerle/Gijs - Gang Boven)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+AB: Ingang (BP8: Busdrukknop, 2 bedieningspunten - Kamer Bas - onderaan - Gang Boven)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+C: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+CD: Ingang (BP25: Busdrukknop, 4 bedieningspunten - trap bovenaan - Eetkamer)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+AB: Ingang (BP34: Busdrukknop, 4 bedieningspunten - Trap/bureau bovenaan - Gang Boven)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+C: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O03: Zitkamer(spots)
+AB: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+C: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+AB: Ingang (BP23: Busdrukknop, 2 bedieningspunten - Haldeur bovenaan - Zitkamer)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+AB: Ingang (BP26: Busdrukknop, 4 bedieningspunten - trap onderaan - Eetkamer)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+C: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O04: Slaapkamer Veerle/Gijs Midden
+AB: Ingang (BP13: Busdrukknop, 4 bedieningspunten - Deur - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+Nikobus database 30 / 34 29/12/2011
+C: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+CD: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+AB: Ingang (BP37: Busdrukknop, 4 bedieningspunten - Bed kant Gijs - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+O05: Zolder Grote berging
+A: Ingang (BP12: Busdrukknop, 2 bedieningspunten - Kamer Bas - bovenaan - Gang Boven)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+B: Ingang (BP12: Busdrukknop, 2 bedieningspunten - Kamer Bas - bovenaan - Gang Boven)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 0 s
+AB voorwaarde = Geen
+A: Ingang (BP16: Busdrukknop, 2 bedieningspunten - Zolder Gang)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+B: Ingang (BP16: Busdrukknop, 2 bedieningspunten - Zolder Gang)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 0 s
+AB voorwaarde = Geen
+C: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+AB: Ingang (BP33: Busdrukknop, 4 bedieningspunten - knop2 - Reserve)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+CD: Ingang (BP33: Busdrukknop, 4 bedieningspunten - knop2 - Reserve)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+C: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O06: Douche
+CD: Ingang (BP15: Busdrukknop, 4 bedieningspunten - Badkamer)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+Nikobus database 31 / 34 29/12/2011
+C: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+C: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O07: Speelkamer
+AB: Ingang (BP17: Busdrukknop, 2 bedieningspunten - Speelkamer)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+D: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O08: Kamer Bas
+B: Ingang (BP8: Busdrukknop, 2 bedieningspunten - Kamer Bas - onderaan - Gang Boven)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+AB: Ingang (BP14: Busdrukknop, 2 bedieningspunten - Kamer Bas)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+C: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+C: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O09: Kamer Wout
+AB: Ingang (BP3: Busdrukknop, 2 bedieningspunten - Deur - Kamer Wout)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+D: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+Nikobus database 32 / 34 29/12/2011
+D: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O10: Zolder Chauffage+kleine berging
+A: Ingang (BP12: Busdrukknop, 2 bedieningspunten - Kamer Bas - bovenaan - Gang Boven)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+B: Ingang (BP12: Busdrukknop, 2 bedieningspunten - Kamer Bas - bovenaan - Gang Boven)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 0 s
+AB voorwaarde = Geen
+A: Ingang (BP16: Busdrukknop, 2 bedieningspunten - Zolder Gang)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+B: Ingang (BP16: Busdrukknop, 2 bedieningspunten - Zolder Gang)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 0 s
+AB voorwaarde = Geen
+C: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+C: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+O11: Gang - zolder
+AB: Ingang (BP12: Busdrukknop, 2 bedieningspunten - Kamer Bas - bovenaan - Gang Boven)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+AB: Ingang (BP16: Busdrukknop, 2 bedieningspunten - Zolder Gang)
+Verbindingsmode = M01 (Aan / uit)
+AB voorwaarde = Geen
+C: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+C: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+Nikobus database 33 / 34 29/12/2011
+O12: WC Boven
+A: Ingang (BP10: Busdrukknop, 2 bedieningspunten + LED - WC - Gang Boven)
+Verbindingsmode = M06 (Vertraagd afvallend (lang tot 2h))
+Lange tijden (tot 2u.) = 8 m
+AB voorwaarde = Geen
+B: Ingang (BP10: Busdrukknop, 2 bedieningspunten + LED - WC - Gang Boven)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 0 s
+AB voorwaarde = Geen
+C: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP22: Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan - Hal beneden)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+C: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M02 (Aan, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+D: Ingang (BP36: Busdrukknop, 4 bedieningspunten - Bed kant Veerle - Slaapkamer Veerle/Gijs)
+Verbindingsmode = M03 (Uit, met bedientijd)
+Bedientijd = 1 s
+AB voorwaarde = Geen
+8. Interfaces
+Nikobus database 34 / 34 29/12/2011

@@ -1,0 +1,302 @@
+
+PLAATS: Zolder - chauffage
+   SCHAKELMODULE:  Schakelmodule 
+     UITGANG: Bureau
+     UITGANG: Gang Boven
+     UITGANG: Zitkamer(spots)
+     UITGANG: Slaapkamer Veerle/Gijs Midden
+     UITGANG: Zolder Grote berging
+     UITGANG: Douche
+     UITGANG: Speelkamer
+     UITGANG: Kamer Bas
+     UITGANG: Kamer Wout
+     UITGANG: Zolder Chauffage+kleine bergin
+     UITGANG: Gang - zolder
+     UITGANG: WC Boven
+PLAATS: Bureau
+PLAATS: Kamer Wout
+   BUSDRUKKNOP:  Busdrukknop, 2 bedieningspunten - Deur  /// Adres:  3C96A6 /// Code: BP3
+      Uitgang: O09 Mode: M01 Knoppen: BP3 bedientijd(sec): 0 afvaltijd(sec): 0
+PLAATS: Gang Boven
+   BUSDRUKKNOP:  Busdrukknop, 2 bedieningspunten - Kamer Wout  /// Adres:  3EFDC1 /// Code: BP5
+      Uitgang: O02 Mode: M01 Knoppen: BP5 bedientijd(sec): 0 afvaltijd(sec): 0
+   BUSDRUKKNOP:  Busdrukknop, 2 bedieningspunten - Badkamer  /// Adres:  3EF0AB /// Code: BP6
+      Uitgang: O02 Mode: M01 Knoppen: BP6 bedientijd(sec): 0 afvaltijd(sec): 0
+   BUSDRUKKNOP:  Busdrukknop, 2 bedieningspunten - Kamer Veerle/Gijs  /// Adres:  3D15AC /// Code: BP7
+      Uitgang: O02 Mode: M01 Knoppen: BP7 bedientijd(sec): 0 afvaltijd(sec): 0
+   BUSDRUKKNOP:  Busdrukknop, 2 bedieningspunten - Kamer Bas - onderaan  /// Adres:  3C954C /// Code: BP8
+      Uitgang: O02 Mode: M01 Knoppen: BP8 bedientijd(sec): 0 afvaltijd(sec): 0
+      Uitgang: O08 Mode: M03 Knoppen: BP8 bedientijd(sec): 1 afvaltijd(sec): 0
+   BUSDRUKKNOP:  Busdrukknop, 2 bedieningspunten + LED - WC  /// Adres:  3C9155 /// Code: BP10
+      Uitgang: O12 Mode: M06 Knoppen: BP10 bedientijd(sec): 0 afvaltijd(sec): 480
+      Uitgang: O12 Mode: M03 Knoppen: BP10 bedientijd(sec): 0 afvaltijd(sec): 0
+   BUSDRUKKNOP:  Busdrukknop, 2 bedieningspunten - Kamer Bas - bovenaan  /// Adres:  3ED269 /// Code: BP12
+      Uitgang: O05 Mode: M02 Knoppen: BP12 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O10 Mode: M02 Knoppen: BP12 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O11 Mode: M01 Knoppen: BP12 bedientijd(sec): 0 afvaltijd(sec): 0
+      Uitgang: O05 Mode: M03 Knoppen: BP12 bedientijd(sec): 0 afvaltijd(sec): 0
+      Uitgang: O10 Mode: M03 Knoppen: BP12 bedientijd(sec): 0 afvaltijd(sec): 0
+   BUSDRUKKNOP:  Busdrukknop, 4 bedieningspunten - Trap/bureau bovenaan  /// Adres:  3BC297 /// Code: BP34
+      Uitgang: O02 Mode: M01 Knoppen: BP34 bedientijd(sec): 0 afvaltijd(sec): 0
+      Uitgang: O01 Mode: M01 Knoppen: BP34 bedientijd(sec): 0 afvaltijd(sec): 0
+   BUSDRUKKNOP:  Busdrukknop, 4 bedieningspunten - Trap/Bureau onderaan  /// Adres:  3E74CC /// Code: BP35
+      Uitgang: O03 Mode: M01 Knoppen: BP35 bedientijd(sec): 0 afvaltijd(sec): 0
+PLAATS: Badkamer
+   BUSDRUKKNOP:  Busdrukknop, 4 bedieningspunten  /// Adres:  3B940A /// Code: BP15
+      Uitgang: O10 Mode: M01 Knoppen: BP15 bedientijd(sec): 0 afvaltijd(sec): 0
+      Uitgang: O11 Mode: M01 Knoppen: BP15 bedientijd(sec): 0 afvaltijd(sec): 0
+      Uitgang: O06 Mode: M01 Knoppen: BP15 bedientijd(sec): 0 afvaltijd(sec): 0
+PLAATS: Slaapkamer Veerle/Gijs
+   BUSDRUKKNOP:  Busdrukknop, 4 bedieningspunten - Deur  /// Adres:  3BC17E /// Code: BP13
+      Uitgang: O04 Mode: M01 Knoppen: BP13 bedientijd(sec): 0 afvaltijd(sec): 0
+      Uitgang: O01 Mode: M01 Knoppen: BP13 bedientijd(sec): 0 afvaltijd(sec): 0
+      Uitgang: O02 Mode: M01 Knoppen: BP13 bedientijd(sec): 0 afvaltijd(sec): 0
+   BUSDRUKKNOP:  Busdrukknop, 4 bedieningspunten - Bed kant Veerle  /// Adres:  3BC044 /// Code: BP36
+      Uitgang: O02 Mode: M01 Knoppen: BP36 bedientijd(sec): 0 afvaltijd(sec): 0
+      Uitgang: O01 Mode: M02 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O02 Mode: M02 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O03 Mode: M02 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O04 Mode: M02 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O05 Mode: M02 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O06 Mode: M02 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O07 Mode: M02 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O08 Mode: M02 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O09 Mode: M02 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O10 Mode: M02 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O11 Mode: M02 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O12 Mode: M02 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O01 Mode: M02 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O02 Mode: M02 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O03 Mode: M02 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O04 Mode: M02 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O05 Mode: M02 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O06 Mode: M02 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O07 Mode: M02 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O08 Mode: M02 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O09 Mode: M02 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O10 Mode: M02 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O11 Mode: M02 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O12 Mode: M02 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O01 Mode: M02 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O02 Mode: M02 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O03 Mode: M02 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O05 Mode: M02 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O06 Mode: M02 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O08 Mode: M02 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O10 Mode: M02 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O11 Mode: M02 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O12 Mode: M02 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O04 Mode: M01 Knoppen: BP36 bedientijd(sec): 0 afvaltijd(sec): 0
+      Uitgang: O01 Mode: M03 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O02 Mode: M03 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O03 Mode: M03 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O04 Mode: M03 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O05 Mode: M03 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O06 Mode: M03 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O07 Mode: M03 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O08 Mode: M03 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O09 Mode: M03 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O10 Mode: M03 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O11 Mode: M03 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O12 Mode: M03 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O01 Mode: M03 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O02 Mode: M03 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O03 Mode: M03 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O04 Mode: M03 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O05 Mode: M03 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O06 Mode: M03 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O07 Mode: M03 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O08 Mode: M03 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O09 Mode: M03 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O10 Mode: M03 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O11 Mode: M03 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O12 Mode: M03 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O01 Mode: M03 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O02 Mode: M03 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O03 Mode: M03 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O05 Mode: M03 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O06 Mode: M03 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O07 Mode: M03 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O08 Mode: M03 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O09 Mode: M03 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O10 Mode: M03 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O11 Mode: M03 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O12 Mode: M03 Knoppen: BP36 bedientijd(sec): 1 afvaltijd(sec): 0
+   BUSDRUKKNOP:  Busdrukknop, 4 bedieningspunten - Bed kant Gijs  /// Adres:  3BBDF3 /// Code: BP37
+      Uitgang: O04 Mode: M01 Knoppen: BP37 bedientijd(sec): 0 afvaltijd(sec): 0
+      Uitgang: O01 Mode: M01 Knoppen: BP37 bedientijd(sec): 0 afvaltijd(sec): 0
+PLAATS: WC- Boven
+PLAATS: Kamer Bas
+   BUSDRUKKNOP:  Busdrukknop, 2 bedieningspunten  /// Adres:  3F00AC /// Code: BP14
+      Uitgang: O08 Mode: M01 Knoppen: BP14 bedientijd(sec): 0 afvaltijd(sec): 0
+PLAATS: Zolder Gang
+   BUSDRUKKNOP:  Busdrukknop, 2 bedieningspunten  /// Adres:  3C05DE /// Code: BP16
+      Uitgang: O05 Mode: M02 Knoppen: BP16 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O10 Mode: M02 Knoppen: BP16 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O11 Mode: M01 Knoppen: BP16 bedientijd(sec): 0 afvaltijd(sec): 0
+      Uitgang: O05 Mode: M03 Knoppen: BP16 bedientijd(sec): 0 afvaltijd(sec): 0
+      Uitgang: O10 Mode: M03 Knoppen: BP16 bedientijd(sec): 0 afvaltijd(sec): 0
+PLAATS: Speelkamer
+   BUSDRUKKNOP:  Busdrukknop, 2 bedieningspunten  /// Adres:  3EED98 /// Code: BP17
+      Uitgang: O07 Mode: M01 Knoppen: BP17 bedientijd(sec): 0 afvaltijd(sec): 0
+PLAATS: Zolder Berging
+PLAATS: Berging
+   BUSDRUKKNOP:  Busdrukknop, 2 bedieningspunten - deur keuken  /// Adres:  3ED8CA /// Code: BP29
+      Uitgang: O06 Mode: M01 Knoppen: BP29 bedientijd(sec): 0 afvaltijd(sec): 0
+   BUSDRUKKNOP:  Busdrukknop, 4 bedieningspunten - deur tuin bovenaan  /// Adres:  3BBF3D /// Code: BP30
+      Uitgang: O12 Mode: M01 Knoppen: BP30 bedientijd(sec): 0 afvaltijd(sec): 0
+      Uitgang: O07 Mode: M01 Knoppen: BP30 bedientijd(sec): 0 afvaltijd(sec): 0
+      Uitgang: O08 Mode: M01 Knoppen: BP30 bedientijd(sec): 0 afvaltijd(sec): 0
+      Uitgang: O09 Mode: M01 Knoppen: BP30 bedientijd(sec): 0 afvaltijd(sec): 0
+   BUSDRUKKNOP:  Busdrukknop, 2 bedieningspunten - deur tuin onderaan  /// Adres:  3ED131 /// Code: BP31
+      Uitgang: O06 Mode: M01 Knoppen: BP31 bedientijd(sec): 0 afvaltijd(sec): 0
+PLAATS: Keuken
+   BUSDRUKKNOP:  Busdrukknop, 2 bedieningspunten - deur eetkamer  /// Adres:  3EB58A /// Code: BP27
+      Uitgang: O05 Mode: M01 Knoppen: BP27 bedientijd(sec): 0 afvaltijd(sec): 0
+   BUSDRUKKNOP:  Busdrukknop, 2 bedieningspunten - deur berging  /// Adres:  3ED24B /// Code: BP28
+      Uitgang: O03 Mode: M01 Knoppen: BP28 bedientijd(sec): 0 afvaltijd(sec): 0
+      Uitgang: O05 Mode: M01 Knoppen: BP28 bedientijd(sec): 0 afvaltijd(sec): 0
+      Uitgang: O06 Mode: M01 Knoppen: BP28 bedientijd(sec): 0 afvaltijd(sec): 0
+PLAATS: Eetkamer
+   BUSDRUKKNOP:  Busdrukknop, 4 bedieningspunten - trap bovenaan  /// Adres:  3BBE6E /// Code: BP25
+      Uitgang: O03 Mode: M01 Knoppen: BP25 bedientijd(sec): 0 afvaltijd(sec): 0
+      Uitgang: O02 Mode: M01 Knoppen: BP25 bedientijd(sec): 0 afvaltijd(sec): 0
+   BUSDRUKKNOP:  Busdrukknop, 4 bedieningspunten - trap onderaan  /// Adres:  3BBDFD /// Code: BP26
+      Uitgang: O03 Mode: M01 Knoppen: BP26 bedientijd(sec): 0 afvaltijd(sec): 0
+      Uitgang: O08 Mode: M01 Knoppen: BP26 bedientijd(sec): 0 afvaltijd(sec): 0
+PLAATS: Zitkamer
+   BUSDRUKKNOP:  Busdrukknop, 2 bedieningspunten - Haldeur bovenaan  /// Adres:  3EFB29 /// Code: BP23
+      Uitgang: O11 Mode: M01 Knoppen: BP23 bedientijd(sec): 0 afvaltijd(sec): 0
+      Uitgang: O03 Mode: M01 Knoppen: BP23 bedientijd(sec): 0 afvaltijd(sec): 0
+   BUSDRUKKNOP:  Busdrukknop, 4 bedieningspunten - Haldeur onderaan  /// Adres:  3BC4FC /// Code: BP24
+      Uitgang: O04 Mode: M01 Knoppen: BP24 bedientijd(sec): 0 afvaltijd(sec): 0
+      Uitgang: O05 Mode: M01 Knoppen: BP24 bedientijd(sec): 0 afvaltijd(sec): 0
+      Uitgang: O11 Mode: M03 Knoppen: BP24 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O08 Mode: M01 Knoppen: BP24 bedientijd(sec): 0 afvaltijd(sec): 0
+PLAATS: Hal beneden
+   BUSDRUKKNOP:  Busdrukknop, 2 bedieningspunten - Garagedeur  /// Adres:  3E3587 /// Code: BP19
+      Uitgang: O04 Mode: M01 Knoppen: BP19 bedientijd(sec): 0 afvaltijd(sec): 0
+      Uitgang: O05 Mode: M01 Knoppen: BP19 bedientijd(sec): 0 afvaltijd(sec): 0
+   BUSDRUKKNOP:  Busdrukknop, 2 bedieningspunten + LED - WC-deur  /// Adres:  3C912A /// Code: BP20
+      Uitgang: O12 Mode: M06 Knoppen: BP20 bedientijd(sec): 0 afvaltijd(sec): 1800
+      Uitgang: O12 Mode: M03 Knoppen: BP20 bedientijd(sec): 0 afvaltijd(sec): 0
+   BUSDRUKKNOP:  Busdrukknop, 2 bedieningspunten - zitkameurdeur - bovenaan  /// Adres:  3BAE4D /// Code: BP21
+      Uitgang: O04 Mode: M01 Knoppen: BP21 bedientijd(sec): 0 afvaltijd(sec): 0
+      Uitgang: O05 Mode: M01 Knoppen: BP21 bedientijd(sec): 0 afvaltijd(sec): 0
+   BUSDRUKKNOP:  Busdrukknop, 4 bedieningspunten - zitkamerdeur onderaan  /// Adres:  3BBDF7 /// Code: BP22
+      Uitgang: O03 Mode: M01 Knoppen: BP22 bedientijd(sec): 0 afvaltijd(sec): 0
+      Uitgang: O01 Mode: M02 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O02 Mode: M02 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O03 Mode: M02 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O04 Mode: M02 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O05 Mode: M02 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O06 Mode: M02 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O07 Mode: M02 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O08 Mode: M02 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O09 Mode: M02 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O10 Mode: M02 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O11 Mode: M02 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O12 Mode: M02 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O01 Mode: M02 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O02 Mode: M02 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O03 Mode: M02 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O04 Mode: M02 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O05 Mode: M02 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O06 Mode: M02 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O07 Mode: M02 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O08 Mode: M02 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O09 Mode: M02 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O10 Mode: M02 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O11 Mode: M02 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O12 Mode: M02 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O01 Mode: M02 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O02 Mode: M02 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O03 Mode: M02 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O04 Mode: M02 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O05 Mode: M02 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O06 Mode: M02 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O08 Mode: M02 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O10 Mode: M02 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O11 Mode: M02 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O12 Mode: M02 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O01 Mode: M03 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O02 Mode: M03 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O03 Mode: M03 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O04 Mode: M03 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O05 Mode: M03 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O06 Mode: M03 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O07 Mode: M03 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O08 Mode: M03 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O09 Mode: M03 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O10 Mode: M03 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O11 Mode: M03 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O12 Mode: M03 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O01 Mode: M03 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O02 Mode: M03 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O03 Mode: M03 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O04 Mode: M03 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O05 Mode: M03 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O06 Mode: M03 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O07 Mode: M03 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O08 Mode: M03 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O09 Mode: M03 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O10 Mode: M03 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O11 Mode: M03 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O12 Mode: M03 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O01 Mode: M03 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O02 Mode: M03 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O03 Mode: M03 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O04 Mode: M03 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O05 Mode: M03 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O06 Mode: M03 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O07 Mode: M03 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O08 Mode: M03 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O09 Mode: M03 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O10 Mode: M03 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O11 Mode: M03 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+      Uitgang: O12 Mode: M03 Knoppen: BP22 bedientijd(sec): 1 afvaltijd(sec): 0
+PLAATS: WC - beneden
+PLAATS: Garage
+   BUSDRUKKNOP:  Busdrukknop, 2 bedieningspunten - Haldeur  /// Adres:  19B030 /// Code: BP2
+      Uitgang: O04 Mode: M01 Knoppen: BP2 bedientijd(sec): 0 afvaltijd(sec): 0
+   BUSDRUKKNOP:  Busdrukknop, 2 bedieningspunten - Berging deur  /// Adres:  3EE64C /// Code: BP18
+      Uitgang: O04 Mode: M01 Knoppen: BP18 bedientijd(sec): 0 afvaltijd(sec): 0
+   SCHAKELMODULE:  Schakelmodule (bovenaan) 
+     UITGANG: ???
+     UITGANG: ???
+     UITGANG: Trap zitkamer
+     UITGANG: Hal (licht 1)
+     UITGANG: Hal (licht 2)
+     UITGANG: Licht Berging
+     UITGANG: ???
+     UITGANG: Eetkamer
+     UITGANG: ???
+     UITGANG: ???
+     UITGANG: Geschakeld stopcontact zitkamer
+     UITGANG: WC beneden
+   SCHAKELMODULE:  Schakelmodule (onderaan) 
+     UITGANG: Slaapkamer Veerle/Gijs hoofdlamp
+     UITGANG: Slaapkamer Veerle/Gijs geschakeld contact Veerle
+     UITGANG: Slaapkamer Veerle/Gijs geschakeld contact Gijs
+     UITGANG: Schakeluitgang - Garagelicht
+     UITGANG: Keuken aanrecht
+     UITGANG: Keuken tafel
+     UITGANG: Verlichting buiten 1
+     UITGANG: Verlichting buiten 2
+     UITGANG: Verlichting buiten 3
+     UITGANG: Verlichting badkamer (spiegel)
+     UITGANG: Verlichting badkamer
+     UITGANG: Stopcontact buiten
+PLAATS: Reserve
+   BUSDRUKKNOP:  Busdrukknop, 4 bedieningspunten - knop1  /// Adres:  3BFDE6 /// Code: BP32
+      Uitgang: O01 Mode: M01 Knoppen: BP32 bedientijd(sec): 0 afvaltijd(sec): 0
+   BUSDRUKKNOP:  Busdrukknop, 4 bedieningspunten - knop2  /// Adres:  3C1A90 /// Code: BP33
+      Uitgang: O05 Mode: M01 Knoppen: BP33 bedientijd(sec): 0 afvaltijd(sec): 0
+      Uitgang: O05 Mode: M01 Knoppen: BP33 bedientijd(sec): 0 afvaltijd(sec): 0
+   GENERIEKE_BEDIENINGSPUNTEN:  Generieke bedieningspunten  /// Adres:  3CF3E0 /// Code: BP38
+   FEEDBACK_MODULE:  Feedback Module  /// Adres:  A13E /// Code: LED1
+$0511
+
+
+Sending: 
+
